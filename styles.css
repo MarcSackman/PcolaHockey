@@ -1,0 +1,25 @@
+nav {
+    border: solid black 1px;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    padding: 10px;
+}
+
+.body {
+    background-color: #141414;
+    text-align: center;
+    padding: 10px 70px;
+    font-size: large;
+}
+
+a {
+    text-decoration: none;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+}
